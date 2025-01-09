@@ -152,3 +152,10 @@ main section{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
 }
+
+/* resume-container */
+
+/* .resume-container,  */
+.resume-column{
+    display: flex;
+}
